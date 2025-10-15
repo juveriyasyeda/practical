@@ -1,0 +1,1 @@
+print("beauty is pain")
